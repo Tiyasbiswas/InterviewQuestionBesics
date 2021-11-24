@@ -1,2 +1,2 @@
 #Details
-coreJava based 
+coreJava based Programing QuestionAnd Solution
