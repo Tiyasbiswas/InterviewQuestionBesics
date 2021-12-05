@@ -1,2 +1,3 @@
-#Details
-coreJava based Programing QuestionAnd Solution
+## Details
+
+this repository contains coreJava based Programing Question And Solution
