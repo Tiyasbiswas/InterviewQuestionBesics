@@ -1,3 +1,5 @@
+// two sum code
+
 package Easylevel;
 
 import java.util.Scanner;
