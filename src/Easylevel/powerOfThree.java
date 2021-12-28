@@ -6,7 +6,8 @@ import java.util.Scanner;
 a : this parameter is the base
 b : this parameter is the exponent.
 Return :
-This method returns ab.*/
+This method returns ab.
+*/
 
 
 public class powerOfThree {
