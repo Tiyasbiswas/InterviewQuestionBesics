@@ -1,5 +1,4 @@
-# LeetCodeChallenges
-CoreJavaBased
+# LeetCodeChallenges (CoreJavaBased)
 
 # Questions
 
