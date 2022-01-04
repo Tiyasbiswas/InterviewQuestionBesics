@@ -53,6 +53,9 @@ Given a sorted array of distinct integers and a target value, return the index i
 You must write an algorithm with O(log n) runtime complexity.
 [complete description](https://leetcode.com/problems/search-insert-position/)
 
+
+##Q12-FizzBuzz
+
 ##-MEDIUM-------------------------
 ## Q1-IntegerToRoman
 Given an integer, convert it to a roman numeral.
