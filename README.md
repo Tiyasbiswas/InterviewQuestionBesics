@@ -1,7 +1,12 @@
 # LeetCodeChallenges (CoreJavaBased)
 
 # Questions
-##--EASY
+
+
+---------------------------------------------------------------------------------------------------------------
+################################################-EASY-######################################################
+---------------------------------------------------------------------------------------------------------------
+
 ## Q1- Two Sum
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -56,9 +61,9 @@ You must write an algorithm with O(log n) runtime complexity.
 
 ##Q12-FizzBuzz
 
-##Q13-RemoveElement
-Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed.
+**##Q13-RemoveElement
 
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed.
 Since it is impossible to change the length of the array in some languages, you must instead have the result be placed in the first part of the array nums. More formally, if there are k elements after removing the duplicates, then the first k elements of nums should hold the final result. It does not matter what you leave beyond the first k elements.
 
 Return k after placing the final result in the first k slots of nums.
@@ -67,8 +72,17 @@ Do not allocate extra space for another array. You must do this by modifying the
 [complete description](https://leetcode.com/problems/remove-element/)
 
 
+**##Q14-Length of Last Word
 
-##-MEDIUM-------------------------
+Given a string s consisting of words and spaces, return the length of the last word in the string.
+[complete description](https://leetcode.com/problems/length-of-last-word/)
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+#############################################################-MEDIUM-#############################################################
+------------------------------------------------------------------------------------------------------------------------------------
 ## Q1-IntegerToRoman
 Given an integer, convert it to a roman numeral.
 [complete description](https://leetcode.com/problems/integer-to-roman/)
@@ -77,14 +91,20 @@ Given an integer, convert it to a roman numeral.
 Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice. The relative order of the elements should be kept the same.
 [complete description](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 
-##-HARD----------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+#############################################################-HARD-###############################################################
+------------------------------------------------------------------------------------------------------------------------------------
 
 ## Q1- Integer to English Words
 Convert a non-negative integer num to its English words representation.
 [complete description](https://leetcode.com/problems/integer-to-english-words/)
 
 
-##ALGORITHEM-----------------
+
+-----------------------------------------------------------------------------------------------------------------------------------
+############################################################-ALGORITHEM-############################################################
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ## Q1-Write a function:
 
