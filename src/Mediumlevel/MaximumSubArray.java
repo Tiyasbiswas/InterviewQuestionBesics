@@ -1,8 +1,4 @@
 package Mediumlevel;
-
-/*Given an integer array nums, find the subarray which has the largest sum and return its sum.
-
-   https://leetcode.com/problems/maximum-subarray/?envType=study-plan&id=data-structure-i*/
 public class MaximumSubArray {
 
     public int maxSubArray(int[] arr) {
@@ -25,7 +21,6 @@ public class MaximumSubArray {
                 end = i;
             }
         }
-        // logger.info("Found Maximum Subarray between {} and {}", Math.min(start, end), end);
         return maxSoFar;
 
     }
